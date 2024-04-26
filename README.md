@@ -1,11 +1,15 @@
 <h1 align="left">Hi there 👋🏻</h1>
 
 ###
+
 <p align="left">My name is yeppis and I'm a Full Stack Developer.</p>
-<br clear="both">
+
+###
+
 <h1 align="left">I have expereience with</h1>
 
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="12" />
