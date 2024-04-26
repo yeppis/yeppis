@@ -1,8 +1,12 @@
-<h1 align="left">Hello world!</h1>
+<h1 align="left">Hi there 👋🏻</h1>
 
 ###
 
-<img align="right" height="300" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="left">My name is yeppis and I'm a Full Stack Developer.</p>
+
+###
+
+<img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFyZDV4Yzl1eXd0OWZ6M2l5dGVpdHJ5NGpzemk5YWljczlvZDQ5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 
 ###
 
@@ -16,7 +20,7 @@
 
 <br clear="both">
 
-<h1 align="left">Tech stack</h1>
+<h1 align="left">I have expereience with</h1>
 
 ###
 
@@ -34,6 +38,12 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
 </div>
 
 ###
