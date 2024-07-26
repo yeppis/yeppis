@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is yeppis and I'm a Full Stack Developer.</p>
+<p align="left">My name is yeppis. I'm an Software Engineering since 2010.</p>
 
 ###
 
